@@ -5,8 +5,8 @@ As required by the North Carolina State University Office of Student Conduct, al
 
 The following projects are available:
 - Order Fulfillment & Inventory Management Application (Java, HTML, AngularJS, APIs, MySQL, Spring, Maven): coffee shop order fullfillment application with order ahead, inventory management, and customer/staff logins.
-- Course Scheduling Manager (Java): manages the scheduling of students to courses with designated student/professor/admin log ins to control how classes are assigned and handled.
-- Trip Planning Manager (C): allows the user to get information about various North Carolina state parks and plan a trip to one or more parks.
-- DES Encryption Decryption (C): encrypt/decrypt a file using the DES method and a specified key.
+- Course Scheduling Manager (Java): manages course scheduling for a university, allowing students to register for classes, faculty to register to teach classes, and administrators to manage overall scheduling.
+- Trip Planning Manager (C): route generation application, providing information on distance, location, etc. for each destination.
+- DES Encryption Decryption (C): implemented the DES encryption method to encrypt/decrypt a file with a specified key.
 
 Thank you!
