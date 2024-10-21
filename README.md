@@ -11,5 +11,6 @@ The following projects are available:
 - DES Encryption Decryption (C): implemented the DES encryption method to encrypt/decrypt a file with a specified key.
 
 The Augmented Reality Protein Dynamics Learning Tool is the property of the stakeholders (Wake Tech Community College) and cannot be made available.
+The Python script for communication platforms if the property of the Wolfpack Security and Privacy Research (WSPR) Laboratory	and cannot be made available at this time.
 
 Thank you!
